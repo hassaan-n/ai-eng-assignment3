@@ -1,0 +1,4 @@
+ag2[openai]
+Pillow
+numpy
+python-dotenv
